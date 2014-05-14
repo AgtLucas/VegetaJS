@@ -1,0 +1,19 @@
+{
+  "name": "VegetaJS",
+  "version": "0.0.0",
+  "description": "Bookshelf + MySQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AgtLucas/VegetaJS.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/VegetaJS/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/VegetaJS"
+}
