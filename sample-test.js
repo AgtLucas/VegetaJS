@@ -1,7 +1,5 @@
 // Not working yet
-
 var Bookshelf = require('bookshelf');
-var bluebird = require('bluebird');
 
 // Conect to MySQL
 var MySqlConnection = Bookshelf.initialize({
