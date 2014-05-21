@@ -14,7 +14,6 @@ var MySqlConnection = Bookshelf.initialize({
 });
 
 MySqlConnection.knex.schema.createTable('users', function (user) {
-  user.charset('UTF8_GENERAL_CI'),
   user.string('name')
 }).then(function () {
   var Sayan = MySqlConnection.Model.extend({
